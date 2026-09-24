@@ -36,3 +36,23 @@ SQLite Storage
       |
       v
 GET /predictions
+
+
+
+## Screenshots
+
+### API Documentation
+
+![Swagger API](screenshots/swagger-api.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/prediction-result.png)
+
+### Stored Predictions
+
+![Stored Predictions](screenshots/predictions-storage.png)
+
+### Model Evaluation
+
+![Evaluation Results](screenshots/evaluation-results.png)
